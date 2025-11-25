@@ -1,5 +1,7 @@
 🌊 CascadeRT: A Simple, Modern GTK4 Torrent Client for Linux
 
+<p align="center"> <img src="https://imgur.com/oZh5isY.png" alt="Screenshot of the CascadeRT application showing the main torrent list and detail panel with download/upload rates." width="700"/> </p>
+
 CascadeRT is a minimal, fast, and easy-to-use torrent client built specifically for Linux desktop environments. Leveraging the power of Python, the GTK 4 toolkit, and the robust libtorrent library, CascadeRT provides essential torrent management without the complexity.
 
 ✨ Features
