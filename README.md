@@ -56,6 +56,7 @@ Bash
 
 # Clone the repository
 git clone [YOUR_REPO_URL_HERE]
+
 cd CascadeRT
 
 💡 Set up a virtual environment (Recommended)
