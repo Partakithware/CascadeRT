@@ -58,13 +58,13 @@ Bash
 git clone [YOUR_REPO_URL_HERE]
 cd CascadeRT
 
-# 💡 Set up a virtual environment (Recommended)
+💡 Set up a virtual environment (Recommended)
 python3 -m venv venv
 source venv/bin/activate
 
-# Install libtorrent and PyGObject (commands may vary by distribution)
-# Example for Debian/Ubuntu (You may have installed them manually):
-# sudo apt install python3-libtorrent python3-gi gir1.2-gtk-4.0
+ Install libtorrent and PyGObject (commands may vary by distribution)
+ Example for Debian/Ubuntu (You may have installed them manually):
+ sudo apt install python3-libtorrent python3-gi gir1.2-gtk-4.0
 
-# Run the main application file
+Run the main application file:
 python3 main.py
