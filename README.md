@@ -1,4 +1,4 @@
-🌊 CascadeRT: A Simple, Modern GTK4 Torrent Client for Linux
+<p align="center">🌊 CascadeRT: A Simple, Modern GTK4 Torrent Client for Linux</p>
 
 <p align="center"> <img src="https://imgur.com/oZh5isY.png" alt="Screenshot of the CascadeRT application showing the main torrent list and detail panel with download/upload rates." width="700"/> </p>
 
